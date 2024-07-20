@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dare Oloruntoba
 - 👀 I’m interested in getting better at coding every single day [PHP, JavaScript, React, SQL,No-SQL Dart, Flutter].
--     I'm a Javascript developer, React developer and Mobile developer(Flutter)
+-     I'm a Javascript developer, React developer, Dart developer and Mobile developer(Flutter)
 - 🌱 I’m continiously learning JavaScript(Libraries), Dart(Libraries) and Flutter. Learning never stop.
 - 💞️ I’m looking to collaborate on any interesting [open source] project to show my ablity to solve problems and also to learn and get better.
 * 📫 How to reach me: 
