@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dare Oloruntoba
+- 👋 Hi, I’m Oluwadamilare Oloruntoba
 - 👀 I’m interested in getting better at coding every single day [PHP, JavaScript, React, SQL,No-SQL Dart, Flutter].
 -     I'm a Javascript developer, React developer, Dart developer and Mobile developer(Flutter)
 - 🌱 I’m continiously learning JavaScript(Libraries), Dart(Libraries) and Flutter. Learning never stop.
