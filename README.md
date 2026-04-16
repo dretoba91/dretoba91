@@ -1,13 +1,70 @@
-- 👋 Hi, I’m Oluwadamilare Oloruntoba
-- 👀 I’m interested in getting better at coding every single day [PHP, JavaScript, React, SQL,No-SQL Dart, Flutter].
--     I'm a Javascript developer, React developer, Dart developer and Mobile developer(Flutter)
-- 🌱 I’m continiously learning JavaScript(Libraries), Dart(Libraries) and Flutter. Learning never stop.
-- 💞️ I’m looking to collaborate on any interesting [open source] project to show my ablity to solve problems and also to learn and get better.
-* 📫 How to reach me: 
-      Email: (d.toba91@gmail.com), 
-      [LinkedIn](https://www.linkedin.com/in/oluwadamilare-oloruntoba/)
+# 👋 Hi, I'm Oluwadamilare Oloruntoba
 
-<!---
-dretoba91/dretoba91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **Backend & Mobile Developer** passionate about building scalable systems and clean mobile experiences.
+
+---
+
+## 🚀 About Me
+- 👀 Passionate about improving my coding skills every single day
+- 💻 Full-stack leaning: Backend (Node.js / PHP), Mobile (Flutter), and Web (React)
+- 📱 Flutter Developer (MVVM, BLoC, GetX, Provider)
+- ⚙️ Backend Developer (Node.js, TypeScript, Express, Next, SQL, NoSQL)
+- 🧠 Always learning and exploring better architecture, performance, and system design
+- 🤝 Open to collaborating on interesting open-source projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript / TypeScript
+- Dart
+- PHP
+- SQL
+
+**Backend**
+- Node.js (Express, NestJS)
+- REST APIs
+- MySQL / PostgreSQL / MongoDB
+- Authentication (JWT, OAuth basics)
+
+**Mobile**
+- Flutter
+- State Management: BLoC, Provider, GetX
+- Firebase integration
+- Location services & maps
+
+**Frontend**
+- React (basic–intermediate)
+
+**Dev Tools**
+- Git & GitHub
+- Docker (learning / in progress)
+- CI/CD basics
+- Nginx (learning)
+
+---
+
+## 🌱 Currently Learning
+- System design & scalable backend architecture
+- Advanced TypeScript patterns
+- Flutter clean architecture (MVVM deeper implementation)
+- DevOps fundamentals (Docker, Nginx, deployment pipelines)
+
+---
+
+## 🎯 Goals
+- Become a **Senior Flutter & Backend Engineer**
+- Build and contribute to impactful open-source projects
+- Master system design and distributed systems
+- Ship production-grade applications end-to-end
+
+---
+
+## 📫 Contact Me
+- 📧 Email: d.toba91@gmail.com  
+- 🔗 LinkedIn: [Oluwadamilare Oloruntoba](https://www.linkedin.com/in/oluwadamilare-oloruntoba/)
+
+---
+
+⭐️ Always open to collaboration, learning, and building meaningful software.
